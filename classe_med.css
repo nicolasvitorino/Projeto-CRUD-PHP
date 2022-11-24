@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.login1 {
+    box-shadow: 10px 10px 15px rgb(33, 38, 39);
+    border-radius: 5px;
+    width: 50%;
+}
+
+.form1 {
+    background-color: rgb(50, 196, 176);
+    width: 25%;
+    height: 30%;
+    box-shadow: 10px 10px 15px rgb(33, 38, 39);
+    border-radius: 15px;
+}
+
+.form2 {
+    background-color: rgb(159, 197, 192);
+    width: 80%;
+    height: 80%;
+    box-shadow: 10px 10px 15px rgb(33, 38, 39) inset ;
+    border-radius: 15px;
+   
+}
+
