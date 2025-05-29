@@ -1,2 +1,38 @@
-# Projeto CRUD. Feito em PHP, MySQL, HTML, CSS.
-# Trabalho de controle de receitas feito em equipe no Senai. Fiz o back-end, sistema de cadastro/login médico/paciente, com função de acessar receitas (paciente/médico), alterar receitas (medico), excluir receitas (medico), adicionar nova receita (medico)
+🩺 Sistema de Receitas Médicas
+
+Um sistema web desenvolvido com PHP, MySQL, HTML e CSS, voltado para o gerenciamento de receitas médicas.
+
+🔐 Autenticação
+
+O sistema possui um controle de acesso com login e cadastro para dois tipos de usuários:
+
+👨‍⚕️ Médicos
+
+🧑‍⚕️ Pacientes
+
+
+👥 Funcionalidades por Tipo de Usuário
+
+🧑‍⚕️ Paciente
+
+📄 Visualizar suas próprias receitas médicas.
+
+
+👨‍⚕️ Médico
+
+➕ Cadastrar novas receitas.
+
+✏️ Editar receitas existentes.
+
+❌ Excluir receitas.
+
+📄 Visualizar todas as receitas cadastradas.
+
+
+🧰 Tecnologias Utilizadas
+
+Frontend: HTML, CSS
+
+Backend: PHP
+
+Banco de Dados: MySQL
