@@ -1,3 +1,5 @@
+Esse foi meu primeiro projeto de desenvolvimento de software, realizei a parte de back-end e banco de dados.
+
 🩺 Sistema de Receitas Médicas
 
 Um sistema web desenvolvido com PHP, MySQL, HTML e CSS, voltado para o gerenciamento de receitas médicas.
